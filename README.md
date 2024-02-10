@@ -2,10 +2,10 @@
 [LinkedIn](https://www.linkedin.com/in/shimantobhowmik/) | [Resume](https://github.com/ShimantoBhowmik/resume/blob/main/Shimanto_Bhowmik_Resume.pdf)
 
 
-| from 🏠           | in 🎓               | likes to sing  🎤    | My work music playlist 🎧               |
-| ----------------- | -----------------  | ------------------ | --------------------------------------- |
-| Dhaka,            | Rochester,         | Mostly soft-paced songs  | [Mood](https://open.spotify.com/playlist/0Iqy4oipAp4IRrZ2YD8h6H?si=592b61f9f1964e5c)|
-| Bangladesh        | NY                 | (mostly)              |                                         
+| from 🏠                                  | in 🎓            | likes to sing 🎤              | My work music playlist 🎧               |
+| --------------------------------------- | ---------------- | ---------------------------- | --------------------------------------- |
+| Dhaka, Bangladesh                       | Rochester, NY    | Mostly soft-paced songs (mostly) | [Mood](https://open.spotify.com/playlist/0Iqy4oipAp4IRrZ2YD8h6H?si=592b61f9f1964e5c) |
+                                  
 
 
 ## Bio
