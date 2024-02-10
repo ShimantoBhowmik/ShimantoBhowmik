@@ -11,5 +11,7 @@
 🐾 Computer Science student from Rochester Institute of Technology, Class of '26.
 
 🌱 Spring 2024: I got promoted to a part-time Machine Learning Engineer at SageAI.
+
 🍝 Fall 2024: I worked as a Machine Learning Engineer Intern at SageAI.
+
 ☁️ Summer 2023: I worked at Amazon as a Software Development Engineering Intern for Amazon Alexa.
