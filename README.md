@@ -7,6 +7,7 @@
 | Dhaka,            | Rochester,         | Mostly soft-paced songs  | [Mood](https://open.spotify.com/playlist/0Iqy4oipAp4IRrZ2YD8h6H?si=592b61f9f1964e5c)|
 | Bangladesh        | NY                 | (mostly)              |                                         
 
+
 ## Bio
 🐾 Computer Science student from Rochester Institute of Technology, Class of '26.
 
@@ -19,6 +20,7 @@
 🎨 I have always been intrigued by art. I have never learned art myself but I have a lot of respect for people who do know how to art. In my little attempts to do art, I just manipulate images using Matlab :).
 
 🎸 I know how to play the guitar. Mostly simple chords to sing along slow-paced songs. Nothing too fancy.
+
 
 ## To Code or not to Code 🖥️
 In my coding journey I've come to appreciate the subtle artistry within the realms of programming. Initially my were efficiency and functionality which overshadowed the elegance of structure in my code. However as I now have learned to appreciate readable and structured code.
