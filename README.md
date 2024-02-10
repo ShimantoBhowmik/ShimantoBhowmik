@@ -5,6 +5,6 @@
 | from 🏠           | in 🎓               | likes to sing  🎤    | My work music playlist 🎧               |
 | ----------------- | -----------------  | ------------------ | --------------------------------------- |
 | Dhaka,            | Rochester,         | Mostly soft-paced songs  | [Mood](https://open.spotify.com/playlist/0Iqy4oipAp4IRrZ2YD8h6H?si=592b61f9f1964e5c)|
-| Bangladesh        | NY                 | (mostly)              |                                         |
+| Bangladesh        | NY                 | (mostly)              |                                         
 
 
