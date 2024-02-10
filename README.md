@@ -22,7 +22,7 @@
 🎸 I know how to play the guitar. Mostly simple chords to sing slow-paced songs. Nothing too fancy.
 
 
-## To Code or not to Code 🖥️
+## To Code or not to Code  🖥️
 In my coding journey I've come to appreciate the subtle artistry within the realms of programming. Initially my priorities were efficiency and functionality which overshadowed the elegance of structure in my code. However now I have learned to appreciate readable and structured code.
 
 In my early days, coding felt like sketching on a vast canvas where the rush of creation took over me. As I moved from being a beginner to a more experienced coder I came to realize what makes code really beautiful isn't just how well it works but how clear and easy to understand it is for others who come take a look at my canvas. For example, I like having meaningful variable names in my code. (x,y) are for coordinates in Math, not for variable names; not in my coding handbook at least. (Oh did I mention, I am doing a Math minor as well!)
