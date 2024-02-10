@@ -27,4 +27,4 @@ In my coding journey I've come to appreciate the subtle artistry within the real
 
 In my early days coding felt like sketching on a vast canvas where the rush of creation took over me. As I moved from being a beginner to a more experienced coder I came to realize what makes code really beautiful isn't just how well it works but how clear and easy to understand it is for others who come take a look at my canvas. For example I like giving meaningful variable names. (x,y) is for coordinates in Math, not variable names in my coding handbook. (Oh did I mention, I am doing a Math minor as well?)
 
-My coding journey thus far in 1 line: Somwhere between O(n^2) and O(n), I grew up.
+Oh and Somwhere between O(n^2) and O(n), I grew up.
