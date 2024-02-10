@@ -11,7 +11,7 @@
 ## Bio
 🐾 Computer Science student from Rochester Institute of Technology, Class of '26.
 
-🌱 Spring 2024: I got promoted to a part-time Machine Learning Engineer at SageAI. Oh, I also took up an exciting research opportunity for a Data Science Learning platform!
+🌱 Spring 2024: I got promoted to a part-time Machine Learning Engineer at SageAI. I also took up an exciting research opportunity for a Data Science Learning platform!
 
 🍝 Fall 2023: I worked as a Machine Learning Engineer Intern at SageAI.
 
