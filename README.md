@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi! I am Shimanto.
+[LinkedIn](https://www.linkedin.com/in/shimantobhowmik/) | [Resume](https://nbviewer.org/github/ShimantoBhowmik/resume/blob/main/Shimanto_Bhowmik_Resume.pdf)
 
 <!--
 **ShimantoBhowmik/ShimantoBhowmik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
