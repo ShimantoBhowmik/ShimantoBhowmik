@@ -17,9 +17,9 @@
 
 ☁️ Summer 2023: I worked at Amazon as a Software Development Engineering Intern for Amazon Alexa.
 
-🎨 I have always been intrigued by art. I have never learned art myself but I have a lot of respect for people who do know how to art. In my little attempts to do art, I just manipulate images using Matlab :).
+🎨 I have always been intrigued by art. I have never learned art myself but I have a lot of respect for people who do know how to art. In my little attempts to do art, I just manipulate images and try to make artistic versions of those images using Matlab.
 
-🎸 I know how to play the guitar. Mostly simple chords to sing along slow-paced songs. Nothing too fancy.
+🎸 I know how to play the guitar. Mostly simple chords to sing slow-paced songs. Nothing too fancy.
 
 
 ## To Code or not to Code 🖥️
