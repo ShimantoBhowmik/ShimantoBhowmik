@@ -1,5 +1,5 @@
 ### Hi! I am Shimanto.
-[LinkedIn](https://www.linkedin.com/in/shimantobhowmik/) | [Resume](http://nbviewer.jupyter.org/github/ShimantoBhowmik/resume/blob/main/Shimanto_Bhowmik_Resume.pdf)
+[LinkedIn](https://www.linkedin.com/in/shimantobhowmik/) | [Website](https://shimantobhowmik.github.io/)
 
 
 | from 🏠                                  | in 🎓            | likes to sing 🎤              | My work music playlist 🎧               |
