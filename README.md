@@ -71,9 +71,9 @@ let shimanto = Engineer {
 
 - **Outstanding Undergraduate Scholar Award**, top 1% of RIT undergraduates, 2025
 - **Alumni Endowed Scholarship Award**, RIT Department of Computer Science, 2025
-- **Alfred L & Ruby C. Davis Leadership Award**, RIT, 2024 and 2025
+- **Alfred L & Ruby C. Davis Leadership Award**, RIT, 2024, 2025
 - **Excellence in Student Life Award**, RIT, 2025
-- **International Student Service Award**, RIT, 2024 and 2025
+- **International Student Service Award**, RIT, 2024, 2025
 - **Outstanding 1st Year Student Scholarship Award**, RIT, 2022
 - **Dean's List**, RIT, every semester
 - **Asia Pacific ICT Award (APICTA)**, China, 2018 - for SHOBJANTA, a real-time quiz trivia app
