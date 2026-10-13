@@ -1,17 +1,16 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Courier+Prime&weight=700&size=40&duration=2600&pause=1100&color=E6E6E6&center=true&vCenter=true&width=760&height=72&lines=hi%2C+i%27m+shimanto.;software+engineer+%40+aws;now+in+arlington%2C+va">
-  <img alt="hi, i'm shimanto. software engineer @ aws, now in arlington, va." src="https://readme-typing-svg.demolab.com/?font=Courier+Prime&weight=700&size=40&duration=2600&pause=1100&color=18181A&center=true&vCenter=true&width=760&height=72&lines=hi%2C+i%27m+shimanto.;software+engineer+%40+aws;now+in+arlington%2C+va">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Courier+Prime&weight=700&size=40&duration=2600&pause=1100&color=E6E6E6&center=true&vCenter=true&width=760&height=72&lines=Hi%2C+I%27m+Shimanto.;Software+Engineer+%40+AWS;Now+in+Arlington%2C+VA">
+  <img alt="Hi, I'm Shimanto. Software Engineer @ AWS. Now in Arlington, VA." src="https://readme-typing-svg.demolab.com/?font=Courier+Prime&weight=700&size=40&duration=2600&pause=1100&color=18181A&center=true&vCenter=true&width=760&height=72&lines=Hi%2C+I%27m+Shimanto.;Software+Engineer+%40+AWS;Now+in+Arlington%2C+VA">
 </picture>
 
-<sub><b>📍 arlington, va</b> &nbsp;·&nbsp; from dhaka, bangladesh &nbsp;·&nbsp; rit cs '25</sub>
+<sub><b>Arlington, VA</b> &nbsp;·&nbsp; Dhaka, Bangladesh &nbsp;·&nbsp; RIT, CS</sub>
 
 <br><br>
 
 <a href="https://shimantobhowmik.github.io/"><img alt="website" src="https://img.shields.io/badge/website-0b0b0b?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/shimantobhowmik/"><img alt="linkedin" src="https://img.shields.io/badge/linkedin-0b0b0b?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NSAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjh6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEzIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTN6TTcuMTIgMjAuNDVIMy41NlY5aDMuNTZ2MTEuNDV6TTIyLjIyIDBIMS43N0MuNzkgMCAwIC43NyAwIDEuNzN2MjAuNTRDMCAyMy4yMy43OSAyNCAxLjc3IDI0aDIwLjQ1Yy45OCAwIDEuNzgtLjc3IDEuNzgtMS43M1YxLjczQzI0IC43NyAyMy4yIDAgMjIuMjIgMHoiLz48L3N2Zz4="></a>
-<a href="https://arxiv.org/abs/2507.23248"><img alt="paper on arxiv" src="https://img.shields.io/badge/paper-0b0b0b?style=for-the-badge&logo=arxiv&logoColor=E0443B"></a>
 <a href="https://scholar.google.com/citations?user=a3Vfg2EAAAAJ"><img alt="google scholar" src="https://img.shields.io/badge/scholar-0b0b0b?style=for-the-badge&logo=googlescholar&logoColor=4285F4"></a>
 <a href="https://www.youtube.com/@scarstark"><img alt="youtube" src="https://img.shields.io/badge/youtube-0b0b0b?style=for-the-badge&logo=youtube&logoColor=E0443B"></a>
 <a href="https://open.spotify.com/playlist/0Iqy4oipAp4IRrZ2YD8h6H"><img alt="work playlist on spotify" src="https://img.shields.io/badge/work_playlist-0b0b0b?style=for-the-badge&logo=spotify&logoColor=1ED760"></a>
