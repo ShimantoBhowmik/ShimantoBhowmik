@@ -27,7 +27,6 @@ let shimanto = Engineer {
     studied:     "RIT - B.S. Computer Science, Math minor ('25)",
     previously:  ["FinPilot", "Amazon AGI (SDE intern x3)", "Stanford AI Lab", "SageAI"],
     writes:      ["Rust", "Python", "Java", "TypeScript", "C/C++"],
-    building:    "platen - a typing test, on a typewriter",
     off_hours:   ["guitar", "singing (soft songs, mostly)", "gaming on YouTube"],
 };
 ```
