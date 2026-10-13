@@ -55,7 +55,7 @@ let shimanto = Engineer {
 
 | project | what it is |
 | :-- | :-- |
-| **[platen](https://github.com/ShimantoBhowmik/platen)** | A typing test typed on an isometric typewriter. Rust on both ends: Dioxus compiled to WebAssembly, axum + Postgres. The client never reports its own WPM - the server replays every timestamped keystroke, and the replay is proven in Lean. |
+| **[platen](https://github.com/ShimantoBhowmik/platen)** | A typing test typed on an isometric typewriter. Rust on both ends: Dioxus compiled to WebAssembly, axum + Postgres. The client never reports its own WPM - the server replays every timestamped keystroke and the replay is proven in Lean. |
 | **[zen‑code](https://github.com/ShimantoBhowmik/zen-code)** | A coding agent that turns a requested change into a pull request, running in a sandbox on local models. |
 | **[aVeN](https://github.com/ShimantoBhowmik/aVeN)** | An AI customer support agent with retrieval over Pinecone and Gemini, plus an evaluation harness. |
 | **[Fin‑AI](https://github.com/ShimantoBhowmik/Fin-AI)** | Reads the mood around a stock by pulling its price, the news and Reddit sentiment. |
@@ -65,14 +65,19 @@ let shimanto = Engineer {
 
 ## publications
 
-- **[Script Fragmentation and Format: What Drives the English-Bengali Performance Gap in Open LLMs?](https://arxiv.org/abs/2507.23248)** - first author, 2025 · [code](https://github.com/BengaliAI/bn-llm-benchmark)
+- **[Script Fragmentation and Format: What Drives the English-Bengali Performance Gap in Open LLMs?](https://arxiv.org/abs/2507.23248)** - 2025 · [code](https://github.com/BengaliAI/bn-llm-benchmark)
 
 ## recognition
 
 - **Outstanding Undergraduate Scholar Award**, top 1% of RIT undergraduates, 2025
-- **Alumni Endowed Scholarship**, RIT Department of Computer Science, 2025
-- **Asia Pacific ICT Award (APICTA)**, China, 2018
-- **BASIS National ICT Award**, Bangladesh, 2018
+- **Alumni Endowed Scholarship Award**, RIT Department of Computer Science, 2025
+- **Alfred L & Ruby C. Davis Leadership Award**, RIT, 2024 and 2025
+- **Excellence in Student Life Award**, RIT, 2025
+- **International Student Service Award**, RIT, 2024 and 2025
+- **Outstanding 1st Year Student Scholarship Award**, RIT, 2022
+- **Dean's List**, RIT, every semester
+- **Asia Pacific ICT Award (APICTA)**, China, 2018 - for SHOBJANTA, a real-time quiz trivia app
+- **BASIS National ICT Award**, Bangladesh, 2018 - for SHOBJANTA
 
 ## toolbox
 
@@ -86,4 +91,4 @@ When I started, coding felt like sketching on a huge canvas - all speed, all fun
 
 <br>
 
-<div align="center"><sub>🎸 off the clock: simple chords, slow songs, and turning photos into art with MATLAB.</sub></div>
+<div align="center"><sub>🎸 off the clock: simple chords, slow songs and turning photos into art with MATLAB.</sub></div>
