@@ -91,4 +91,4 @@ When I started, coding felt like sketching on a huge canvas - all speed, all fun
 
 <br>
 
-<div align="center"><sub>🎸 off the clock: simple chords and slow songs.</sub></div>
+<div align="center"><sub>🎸 off the clock: simple chords, slow songs, gaming, soccer and Formula 1.</sub></div>
