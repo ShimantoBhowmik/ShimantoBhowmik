@@ -27,7 +27,7 @@ let shimanto = Engineer {
     studied:     "RIT - B.S. Computer Science, Math minor ('25)",
     previously:  ["FinPilot", "Amazon AGI (SDE intern x3)", "Stanford AI Lab", "SageAI"],
     writes:      ["Rust", "Python", "Java", "TypeScript", "C/C++"],
-    off_hours:   ["guitar", "singing (soft songs, mostly)", "gaming on YouTube"],
+    off_hours:   ["guitar", "singing (soft songs, mostly)", "gaming on YouTube", "soccer", "Formula 1"],
 };
 ```
 
@@ -88,7 +88,3 @@ let shimanto = Engineer {
 When I started, coding felt like sketching on a huge canvas - all speed, all function. Somewhere along the way I started caring more about whether the next person could read my canvas. `(x, y)` are for coordinates in math, not for variable names. Not in my handbook, anyway.
 
 > *And somewhere between O(n<sup>2</sup>) and O(n), I grew up.*
-
-<br>
-
-<div align="center"><sub>🎸 off the clock: simple chords, slow songs, gaming, soccer and Formula 1.</sub></div>
