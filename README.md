@@ -63,9 +63,12 @@ let shimanto = Engineer {
 | **[Rust‑shell](https://github.com/ShimantoBhowmik/Rust-shell)** | A small UNIX shell, written in Rust. |
 | **[MathMania](https://github.com/ShimantoBhowmik/MathMania)** | A math game I built for my niece, with a digit classifier trained from scratch on MNIST in TensorFlow. |
 
+## publications
+
+- **[Script Fragmentation and Format: What Drives the English-Bengali Performance Gap in Open LLMs?](https://arxiv.org/abs/2507.23248)** - first author, 2025 · [code](https://github.com/BengaliAI/bn-llm-benchmark)
+
 ## recognition
 
-- **Paper:** [Script Fragmentation and Format: What Drives the English-Bengali Performance Gap in Open LLMs?](https://arxiv.org/abs/2507.23248) (first author) · [code](https://github.com/BengaliAI/bn-llm-benchmark) · [Google Scholar](https://scholar.google.com/citations?user=a3Vfg2EAAAAJ)
 - **Outstanding Undergraduate Scholar Award**, top 1% of RIT undergraduates, 2025
 - **Alumni Endowed Scholarship**, RIT Department of Computer Science, 2025
 - **Asia Pacific ICT Award (APICTA)**, China, 2018
