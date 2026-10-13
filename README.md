@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Courier+Prime&weight=700&size=40&duration=2600&pause=1100&color=E6E6E6&center=true&vCenter=true&width=760&height=72&lines=hi%2C+i%27m+shimanto.;software+engineer+%40+aws;now+in+arlington%2C+va;rust%2C+llms+and+typewriters">
-  <img alt="hi, i'm shimanto. software engineer @ aws, now in arlington, va." src="https://readme-typing-svg.demolab.com/?font=Courier+Prime&weight=700&size=40&duration=2600&pause=1100&color=18181A&center=true&vCenter=true&width=760&height=72&lines=hi%2C+i%27m+shimanto.;software+engineer+%40+aws;now+in+arlington%2C+va;rust%2C+llms+and+typewriters">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Courier+Prime&weight=700&size=40&duration=2600&pause=1100&color=E6E6E6&center=true&vCenter=true&width=760&height=72&lines=hi%2C+i%27m+shimanto.;software+engineer+%40+aws;now+in+arlington%2C+va">
+  <img alt="hi, i'm shimanto. software engineer @ aws, now in arlington, va." src="https://readme-typing-svg.demolab.com/?font=Courier+Prime&weight=700&size=40&duration=2600&pause=1100&color=18181A&center=true&vCenter=true&width=760&height=72&lines=hi%2C+i%27m+shimanto.;software+engineer+%40+aws;now+in+arlington%2C+va">
 </picture>
 
 <sub><b>📍 arlington, va</b> &nbsp;·&nbsp; from dhaka, bangladesh &nbsp;·&nbsp; rit cs '25</sub>
