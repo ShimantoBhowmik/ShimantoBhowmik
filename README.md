@@ -65,7 +65,7 @@ let shimanto = Engineer {
 
 ## publications
 
-- **[Script Fragmentation and Format: What Drives the English-Bengali Performance Gap in Open LLMs?](https://arxiv.org/abs/2507.23248)** - 2025 · [code](https://github.com/BengaliAI/bn-llm-benchmark)
+- **[Script Fragmentation and Format: What Drives the English-Bengali Performance Gap in Open LLMs?](https://arxiv.org/abs/2507.23248)** - 2026 · [code](https://github.com/BengaliAI/bn-llm-benchmark)
 
 ## recognition
 
