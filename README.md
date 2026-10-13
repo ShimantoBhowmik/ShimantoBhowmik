@@ -34,7 +34,7 @@ let shimanto = Engineer {
 ## now
 
 - **Software engineer at AWS Security**, based in Arlington, VA.
-- Graduated from **RIT** with a B.S. in Computer Science and a Math minor, 3.99 GPA.
+- Graduated from **RIT** with a B.S. in Computer Science and a Math minor.
 
 ## the road here
 
