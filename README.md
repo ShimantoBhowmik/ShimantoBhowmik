@@ -43,7 +43,7 @@ let shimanto = Engineer {
 | *now* | **AWS** · Software Engineer | AWS Security |
 | 2026 | **FinPilot** · Software Engineer | Schema mapping engine and differential sync for CRM integrations; LLM-driven fund performance tracking |
 | 2025 | **Amazon AGI** · SDE Intern | Took Alexa+ experimentation from single-lane to multi-tenant with traffic splitting, consistent hashing and deterministic identity routing |
-| 2024‑25 | **Stanford AI Lab** · AI Researcher | Translated 20 LLM benchmarks into Bengali and evaluated 10 models; [first-author paper](https://arxiv.org/abs/2507.23248) on the English-Bengali gap in open LLMs |
+| 2024‑25 | **Stanford AI Lab** · AI Researcher | Translated 20 LLM benchmarks into Bengali and evaluated 10 models; [paper](https://arxiv.org/abs/2507.23248) |
 | 2024 | **Amazon AGI** · SDE Intern | Model release pipeline with semantic versioning and automated regression checks |
 | 2023‑24 | **SageAI** · ML Engineer | Full-stack CRM in React and Rust; SEC filings ingestion with LLM-driven financial analysis |
 | 2023‑24 | **RIT CS** · Research Assistant | NSF-funded in-browser R and Python labs on Thebe and Binder |
