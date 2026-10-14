@@ -76,8 +76,8 @@ let shimanto = Engineer {
 - **International Student Service Award**, RIT, 2024, 2025
 - **Outstanding 1st Year Student Scholarship Award**, RIT, 2022
 - **Dean's List**, RIT, every semester
-- **Asia Pacific ICT Award (APICTA)**, China, 2018 - for SHOBJANTA, a real-time quiz trivia app
-- **BASIS National ICT Award**, Bangladesh, 2018 - for SHOBJANTA
+- **Asia Pacific ICT Award (APICTA)**, China, 2018
+- **BASIS National ICT Award**, Bangladesh, 2018
 
 ## toolbox
 
